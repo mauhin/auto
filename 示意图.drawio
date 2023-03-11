@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T04:02:06.063Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UdOBRA1WXfmN09zmixv_" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-11T08:15:26.886Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="skveInjqgvAWMAsjcwQn" version="21.0.6" type="github">
   <diagram name="第 1 页" id="pjvNsAx7YbJ8cmZE5kwV">
     <mxGraphModel dx="1036" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,31 +7,31 @@
         <mxCell id="4ZGNgnVhFvvFpd6PDkWD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZGNgnVhFvvFpd6PDkWD-1" target="4ZGNgnVhFvvFpd6PDkWD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-1" value="随机微分方程（stochastic differential）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-1" value="&lt;b&gt;随机微分方程（stochastic differential）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ZGNgnVhFvvFpd6PDkWD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZGNgnVhFvvFpd6PDkWD-2" target="4ZGNgnVhFvvFpd6PDkWD-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-2" value="应力张量（stress tensors）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-2" value="&lt;b&gt;应力张量（stress tensors）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ZGNgnVhFvvFpd6PDkWD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ZGNgnVhFvvFpd6PDkWD-4" target="4ZGNgnVhFvvFpd6PDkWD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-4" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;聚合物运动（polymer motion）&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-4" value="&lt;b&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;聚合物运动（polymer motion）&lt;/span&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-6" value="聚合物流体动力学：复杂流动（polymer fluid dynamics:complex flows）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-6" value="&lt;b&gt;聚合物流体动力学：复杂流动（polymer fluid dynamics:complex flows）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="570" width="555" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ZGNgnVhFvvFpd6PDkWD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="4ZGNgnVhFvvFpd6PDkWD-8" target="4ZGNgnVhFvvFpd6PDkWD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-8" value="材料函数（material functions）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-8" value="&lt;b&gt;材料函数（material functions）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-10" value="本构方程（constitutive equations）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-10" value="&lt;b&gt;本构方程（constitutive equations）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ZGNgnVhFvvFpd6PDkWD-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.869;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4ZGNgnVhFvvFpd6PDkWD-6">
@@ -46,22 +46,22 @@
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-24" value="轨迹构建（construction of trajectories）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-24" value="&lt;b&gt;轨迹构建（construction of trajectories）&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="90" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-25" value="集合平均值（ensemble averages）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="230" width="210" height="30" as="geometry" />
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-25" value="&lt;b&gt;集合平均值（ensemble averages）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="230" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-26" value="模拟（simulations）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-26" value="&lt;b&gt;模拟（simulations）&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="290" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-27" value="模拟（simulations）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-27" value="&lt;b&gt;模拟（simulations）&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="440" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-28" value="有限元/有限差分法（finite elements/finite differences）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="525" width="310" height="30" as="geometry" />
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-28" value="&lt;b&gt;有限元/有限差分法（finite elements/finite differences）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="525" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-29" value="分析和数值计算，近似&lt;br&gt;（analytical and numerocal calculations，approximations）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=20;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-29" value="&lt;b&gt;分析和数值计算，近似&lt;br&gt;（analytical and numerocal calculations，approximations）&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=20;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="360" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4ZGNgnVhFvvFpd6PDkWD-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -76,10 +76,10 @@
         <mxCell id="4ZGNgnVhFvvFpd6PDkWD-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="750" y="400" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-36" value="连续介质力学（continuum mechanics）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="670" y="485" width="240" height="30" as="geometry" />
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-36" value="&lt;b&gt;连续介质力学（continuum mechanics）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="665" y="485" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-37" value="动力学理论（kinetic theory）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="4ZGNgnVhFvvFpd6PDkWD-37" value="动力学理论（kinetic theory）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="675" y="165" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
